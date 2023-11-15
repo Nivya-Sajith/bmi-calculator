@@ -39,7 +39,7 @@ else{
     {
         cmd='Obese'
     }
-    else if(bmi=>40)
+    else if(bmi>=40)
     {
 cmd='Morbidly Obese'
     }
