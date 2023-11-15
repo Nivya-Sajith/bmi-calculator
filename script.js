@@ -43,7 +43,7 @@ else{
     {
 cmd='Morbidly Obese'
     }
-    else{
+    else if(bmi<18.5){
         cmd="Underweight"
     }
     console.log(cmd);
