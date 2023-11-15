@@ -43,6 +43,9 @@ else{
     {
 cmd='Morbidly Obese'
     }
+    else{
+        cmd="Underweight"
+    }
     console.log(cmd);
     
     
